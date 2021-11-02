@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "WEBVIDEO",
+"productVersion": "0.1",
+"dataUrl": "webvideo.data.unityweb",
+"wasmCodeUrl": "webvideo.wasm.code.unityweb",
+"wasmFrameworkUrl": "webvideo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
